@@ -1,6 +1,8 @@
 # SearchER-Film-Category-Database
 ### Film Category Database Software (SearchER) developed using Python with Tkinter module.
 
+https://user-images.githubusercontent.com/87106402/198217567-e6676fb5-d3f6-41e7-836e-9d077bb5bd21.mp4
+
 SearchER software is divided into two parts;
 - <b>SearchER</b> -> Use to Insert/Edit/Modify Movies and Movie Collections to/from the system.
 - <b>SearchER - Search</b> -> Use to View/Search/Filter Movies and Movie Collections from the system.
